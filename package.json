@@ -1,0 +1,15 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "MEN stack, MongoDB, Express, Node.JS",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VuDucMinh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
